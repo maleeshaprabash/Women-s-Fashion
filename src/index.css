@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Julee&family=Port+Lligat+Sans&?family=Poppins:ital&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Julee&family=Port+Lligat+Sans&?family=Poppins:ital&family=Junge&display=swap');
 @import "tailwindcss";
 
 @theme{
@@ -6,6 +6,7 @@
     --font-Julee: "Julee", cursive;
     --font-PortLligatSans: "Port Lligat Sans", sans-serif;
     --font-Poppins: "Poppins", sans-serif;
+    --font-Junge: "Junge", cursive;
 }
 
 @layer base {

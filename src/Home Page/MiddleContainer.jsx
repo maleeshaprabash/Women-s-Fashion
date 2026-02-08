@@ -27,7 +27,7 @@ function MiddleContainer () {
     ]
     return(
         
-        <div className="flex relative top-70 justify-between px-40 items-center h-60">
+        <div className="flex relative top-75 justify-between px-40 items-center h-60">
             {images.map((item, index) => (
                 <Circle 
                 key={index}
