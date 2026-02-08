@@ -2,6 +2,7 @@ import BgBoxElement from "../Components/BgBoxElement"
 import NavBar from "../Components/NavBar"
 import Background from "./Background"
 import Hero from "./Hero"
+import MiddleContainer from "./MiddleContainer"
 
 function Home() {
     return (
@@ -10,6 +11,7 @@ function Home() {
             <NavBar />
             <BgBoxElement />
             <Hero />
+            <MiddleContainer />
         </div>
     )
 }
