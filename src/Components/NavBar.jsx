@@ -4,7 +4,7 @@ function NavBar () {
     return(
         <>
         <SvgIcon />
-        <div className="flex relative justify-around items-center py-10">
+        <div className="flex relative justify-around items-center py-15">
             <div className="text-[25px] font-Aclonica text-[#6E4826] tracking-wide">Kamelia</div>
             <div className="md:flex hidden">
                 <ul className="flex gap-10 font-PortLligatSans font-semibold tracking-wider text-[#6E4826]">
