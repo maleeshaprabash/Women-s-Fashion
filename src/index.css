@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Julee&family=Port+Lligat+Sans&?family=Poppins:ital&display=swap');
+@import "tailwindcss";
+
+@theme{
+    --font-Aclonica: "Aclonica", sans-serif;
+    --font-Julee: "Julee", cursive;
+    --font-PortLligatSans: "Port Lligat Sans", sans-serif;
+    --font-Poppins: "Poppins", sans-serif;
+}
