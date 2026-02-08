@@ -4,6 +4,7 @@ import Background from "./Background"
 import Hero from "./Hero"
 import MiddleContainer from "./MiddleContainer"
 import Popular from "./Popular"
+import Summer from "./Summer"
 
 function Home() {
     return (
@@ -14,6 +15,7 @@ function Home() {
             <Hero />
             <MiddleContainer />
             <Popular />
+            <Summer />
         </div>
     )
 }
